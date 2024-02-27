@@ -22,4 +22,4 @@ JavaScript: The interactive features and dynamic content are implemented using J
 
 
 Have a Lookout to the website :
-`https://pizza-ordering-app-mohitkhandelwal.netlify.app/`
+(https://pizza-ordering-app-mohitkhandelwal.netlify.app/)
